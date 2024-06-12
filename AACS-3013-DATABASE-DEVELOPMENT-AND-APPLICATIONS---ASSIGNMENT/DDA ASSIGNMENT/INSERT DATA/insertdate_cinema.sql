@@ -1,0 +1,10 @@
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM010', 'GSC', '9850 Pierstorff Pass');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM009', 'GSC', '1 Arizona Crossing');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM008', 'GSC', '96 Walton Parkway');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM007', 'GSC', '60 Pleasure Trail');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM006', 'GSC', '48440 Harper Crossing');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM005', 'GSC', '50 Carioca Road');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM004', 'GSC', '1150 Moland Point');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM003', 'GSC', '8 Holy Cross Point');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM002', 'GSC', '874 Oak Valley Avenue');
+INSERT INTO cinema (cinema_Id, name, location) VALUES ('CM001', 'GSC', '7483 Lunder Terrace');

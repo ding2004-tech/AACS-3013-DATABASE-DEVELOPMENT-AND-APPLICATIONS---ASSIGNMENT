@@ -1,0 +1,10 @@
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV001', 'Inception', 'Science Fiction', INTERVAL '2' HOUR);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV002', 'The Shawshank Redemption', 'Drama', INTERVAL '2' HOUR + INTERVAL '22' MINUTE);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV003', 'The Dark Knight', 'Action', INTERVAL '2' HOUR + INTERVAL '32' MINUTE);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV004', 'Pulp Fiction', 'Crime', INTERVAL '2' HOUR + INTERVAL '34' MINUTE);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV005', 'Forrest Gump', 'Drama', INTERVAL '2' HOUR + INTERVAL '22' MINUTE);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV006', 'The Matrix', 'Science Fiction', INTERVAL '2' HOUR + INTERVAL '16' MINUTE);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV007', 'Interstellar', 'Science Fiction', INTERVAL '2' HOUR + INTERVAL '49' MINUTE);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV008', 'The Godfather', 'Crime', INTERVAL '2' HOUR + INTERVAL '55' MINUTE);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV009', 'The Lord of the Rings: The Return of the King', 'Fantasy', INTERVAL '3' HOUR + INTERVAL '21' MINUTE);
+INSERT INTO Movie (movie_Id, title, genre, duration) VALUES ('MV010', 'Fight Club', 'Drama', INTERVAL '2' HOUR + INTERVAL '19' MINUTE);
